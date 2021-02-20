@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Sample'
-copyright = '2021, vrsec'
-author = 'vrsec'
+copyright = '2021, APSSDC'
+author = 'APSSDC'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
